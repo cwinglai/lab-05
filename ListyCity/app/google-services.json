@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670830021889",
+    "project_id": "lab5-cwinglai",
+    "storage_bucket": "lab5-cwinglai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670830021889:android:f7d945167d26a7b4079f00",
+        "android_client_info": {
+          "package_name": "com.example.lab5_starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgWsDuRq9I2t_V1R6VL8U7OgYY73huJjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
